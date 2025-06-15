@@ -1,0 +1,275 @@
+html, body {
+     background-color: #fffca0;
+	  background-image: url(http://www.petushara.ru/upload/png/yoba_iCpS0KROkq.png);
+        background-position: bottom right ;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+     color: #333333;
+     font-family: "Arial Black";
+}
+
+a {
+     color: #000000;
+}
+img[src="/b/src/pe2shock.png"]{
+width: 0 !important;
+height: 218px !important;
+padding-left: 200px !important;
+background-image: url("http://2--ch.ru/pee2shock.png") !important;
+}
+
+a:hover {
+     color: #ab72b2;
+}
+
+.adminbar {
+     clear: both;
+     float: right;
+     font-size: 0.8em;
+}
+
+.adminbar a {
+     font-weight: bold;
+}
+
+.logo {
+     clear: both;
+     color: #000000;
+     font-size: 2em;
+     text-align: center;
+}
+
+.logo2 {
+     text-align: center;
+}
+
+.theader, .passvalid {
+     background: none repeat scroll 0% 0% #DDDDDD;
+     border-radius: 5px 5px 5px 5px;
+     border: 1px solid #CCCCCC;
+     clear: both;
+     color: #ffffff;
+     font-weight: bold;
+     margin-bottom: 0.5em;
+     padding: 2px;
+     text-align: center;
+}
+
+.postarea {
+    
+}
+
+.rules {
+    
+}
+
+.postblock {
+     background: none repeat scroll 0% 0% transparent;
+     color: #5a0564;
+     font-size: 20px;
+
+}
+
+.footer {
+     font-family: serif;
+     font-size: 10px;
+     margin: 2em 0pt 0pt;
+     text-align: center;
+}
+
+.dellist {
+     font-weight: bold;
+     text-align: center;
+}
+
+.delbuttons {
+     padding-bottom: 4px;
+     text-align: center;
+}
+
+.managehead {
+     background: none repeat scroll 0% 0% #DDDDDD;
+     color: #002244;
+     padding: 0px;
+}
+
+.postlists {
+     background: none repeat scroll 0% 0% #FFFFFF;
+     color: #800000;
+     padding: 0px;
+     width: 100%;
+}
+
+.row1 {
+     background: none repeat scroll 0% 0% #DDDDDD;
+     color: #002244;
+}
+
+.row2 {
+     background: none repeat scroll 0% 0% #CCCCCC;
+     color: #002244;
+}
+
+.unkfunc {
+     background: inherit;
+     color: #789922;
+}
+
+.reflink {
+     font-size: 0.8em;
+     font-weight: bold;
+}
+
+.filesize {
+     color: #666666;
+     font-size: 0.8em;
+     text-decoration: none;
+}
+
+.filetitle {
+     color: #002244;
+     font-size: 1.2em;
+     font-weight: bold;
+}
+
+.postername {
+    
+}
+
+.postertrip {
+     color: #228854;
+}
+
+.oldpost, .notabene {
+     color: #CC1105;
+     font-weight: bold;
+}
+
+.omittedposts {
+     color: #666666;
+}
+
+.reply {
+     background: none repeat scroll 0% 0% #ffffff;
+     border-radius: 5px 5px 5px 5px;
+     border: 5px solid #000000;
+     margin: 0pt;
+     padding: 0pt;
+}
+
+blockquote {
+     margin: 0.5em 0.5em 0.5em 1em;
+}
+
+.reply blockquote {
+     margin: 0.5em;
+}
+
+.doubledash {
+     clear: both;
+     display: none;
+     float: left;
+     vertical-align: top;
+}
+
+.replytitle {
+     color: #000000;
+     font-size: 1.2em;
+     font-weight: bold;
+}
+
+.commentpostername {
+    
+}
+
+.thumbnailmsg {
+     color: #666666;
+     font-size: 0.6em;
+}
+
+hr {
+     border-color: #BBBBBB;
+     border-style: solid none none;
+     border-width: 1px;
+}
+
+table {
+     border-style: none;
+}
+
+table td {
+     border-style: none;
+}
+
+.nothumb {
+     background-color: #FFFFFF;
+     border-style: dotted;
+     margin: 0.3em 0.5em;
+}
+
+.abbrev {
+     color: #666666;
+}
+
+.highlight {
+     background: none repeat scroll 0% 0% #EEDACB;
+     border: 2px dashed #EE6600;
+     color: #333333;
+}
+
+.extrafunctions {
+     color: #008000;
+}
+
+dl.menu dt {
+     background: none repeat scroll 0% 0% #DDDDDD;
+     border-radius: 5px 5px 5px 5px;
+     border: 1px solid #CCCCCC;
+     cursor: pointer;
+     margin-top: 1em;
+     padding-left: 0.5em;
+}
+
+dl.menu dd {
+     border-left: 1px solid #CCCCCC;
+     margin-left: 0.5em;
+     padding-left: 0.5em;
+}
+
+dl.menu dd.hidden {
+     display: none;
+}
+
+p.spoiler > span.warning {
+     color: #FF6600;
+     font-weight: bolder;
+}
+
+span.spoiler {
+     background: none repeat scroll 0% 0% #BBBBBB;
+     color: #BBBBBB;
+}
+
+span.spoiler:hover {
+     color: #333333;
+}
+
+.u {
+     text-decoration: underline;
+}
+
+.s {
+     text-decoration: line-through;
+}
+
+.hide {
+     opacity: 0;
+}
+
+.hide:hover {
+     opacity: 0.6;
+}
+
+.o {
+     text-decoration: overline;
+}
