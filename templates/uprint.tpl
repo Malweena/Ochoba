@@ -1,0 +1,1 @@
+<include %TMPLDIR%/head.tpl><var $data><include %TMPLDIR%/foot.tpl>

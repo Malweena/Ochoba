@@ -1,0 +1,1 @@
+<include %TMPLDIR%/head.tpl><center><b>404: Такой страницы не существует!</b><center><include %TMPLDIR%/foot.tpl>
